@@ -6,7 +6,6 @@
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
 }
-
     body{
         background-color: var(--cor-de-fundo);
         color: var(--branco);
